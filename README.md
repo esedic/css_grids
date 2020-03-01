@@ -1,5 +1,4 @@
-# css_grids
-Various CSS grid layouts
+# Various CSS grid layouts
 
 Current list:
 -Bootstrap 4
